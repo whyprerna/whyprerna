@@ -1,4 +1,4 @@
-## Hi ^-^
+# Hi ^-^
 
 <!--
 **whyprerna/whyprerna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I'm a final-year CSE student at XIM University, Bhubaneswar.<br>🌍 Experienced the world as an exchange student at Ateneo de Manila University, Philippines.<br>🎨 Aspiring Data Analyst and Automation Engineer with a flair for creative problem-solving.<br>📊 Turning data into delight! I design BI dashboards that are as insightful as they are fun to explore – Check out my Taylor Swift Dashboard.<br>🏅 Leading with purpose! As an NSS Leader, I’ve driven impactful community projects and promoted sustainable living.<br>🌟 Avid traveler and adventure enthusiast – I thrive on exploring new challenges, both in tech and life!<br>💬 Always happy to connect and collaborate on innovative ideas.<br>📫 Reach me: pattanaikprerna72@gmail.com 
+🎓 I'm a final-year CSE student at XIM University, Bhubaneswar.<br>🌍 Experienced the world as an exchange student at Ateneo de Manila University, Philippines.<br>🎨 Aspiring Data Analyst and Automation Engineer with a flair for creative problem-solving.<br>📊 Turning data into delight! I design BI dashboards that are as insightful as they are fun to explore.<br>🏅 Leading with purpose! As an NSS Leader, I’ve driven impactful community projects and promoted sustainable living.<br>🌟 Avid traveler and adventure enthusiast – I thrive on exploring new challenges, both in tech and life!<br>💬 Always happy to connect and collaborate on innovative ideas.<br>📫 Reach me: pattanaikprerna72@gmail.com 
 
 
 ## 🌐 Socials:
